@@ -1,0 +1,29 @@
+# --- Python (Backend) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.venv/
+venv/
+env/
+
+# --- Frontend (Node / React / Vite / Streamlit) ---
+node_modules/
+dist/
+build/
+
+# --- Environment files ---
+.env
+.env.*
+
+# --- IDE/editor settings ---
+.vscode/
+.idea/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
